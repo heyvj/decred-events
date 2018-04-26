@@ -1,5 +1,5 @@
 # Post Exhibition Report
-By @jholdstock
+By @jholdstock with additional comments from @Ani
 
 ## Exhibition: 
 London Blockchain Expo
@@ -43,3 +43,13 @@ London Blockchain Expo
 * I didn't speak to a single person who had heard of cross chain atomic swaps. Once explained, people seemed *extremely* excited about it.
 * It would be a valuable skill to know how to get rid of people at the stand. Some people stay for faaar to long and consume a lot of valuable time. It's frustrating to see VIPs walk past and not be able to chat with them because you are tied up with somebody else.
 * I met very few developers/technically savvy people at the expo - only 2-3.
+
+_Notes by @Ani_ 
+
+Here are some of the most common questions from people who didn’t know about decred yet:
+
+- Where is the decred based?  
+- What is your long-term goals for the project, do you want to be the second bitcoin?
+- Where can I use decred to buy things?  And what are other use cases for using decred?
+
+So these questions showed me that there is somewhat a gap in understanding about the autonomous and decentralised nature of decred, the long-term goals and use case of decred. I assume this is normal giving the early days of crypto in general and our marketing focus being more geared towards early adopters and more tech savvy people. However, it is something that needs to be considered sooner rather than later, because ultimately, we want people to use decred.
