@@ -1,4 +1,5 @@
 # Post Exhibition Report
+By @jholdstock
 
 ## Exhibition: 
 London Blockchain Expo
