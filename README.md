@@ -9,6 +9,8 @@ Welcome! This is a central resource to collect upcoming events the Decred commun
 
 [Add an event Decred is participating in to this repo](https://github.com/heyvj/decred-events/wiki/Submit-an-Event)
 
+[Read about best practices for event attendance](https://github.com/heyvj/decred-events/wiki/Best-Practices)
+
 
 ## Get involved
 Opportunities for community members to be involved with events will be shown here whenever there are opportunities.
@@ -27,7 +29,7 @@ Opportunities for community members to be involved with events will be shown her
 ### 3. Best Practices and How-Tos for Events
 * Collate learnings from various events into a single location so Decred can boss events as our shared experience of event participation grows
 * Ensure community participants are as effective as possible by using and building our collective experience
-[View best practice guide](https://github.com/heyvj/decred-events/wiki/Best-Practices-Overview)
+[View best practice guide](https://github.com/heyvj/decred-events/wiki/Best-Practices)
 
 ## How to use
 
