@@ -3,7 +3,7 @@ Welcome! This is a central resource to collect upcoming events the Decred commun
 
 ### You probably want to do one of the following:
 
-[See upcoming events](https://github.com/heyvj/Decred-Events/wiki/Events-Overview)
+[See upcoming events](https://github.com/heyvj/decred-events/wiki/Upcoming-Events)
 
 [View logs for past events](https://github.com/heyvj/Decred-Events/tree/master/Event-Logs)
 
@@ -17,7 +17,7 @@ Opportunities for community members to be involved with events will be shown her
 ### 1. Upcoming Events
 * List all future events where Decred will have a presence in the next 12 months
 * Encourage the community to get involved by participating and helping with event organisation
-[View upcoming events](https://github.com/heyvj/decred-events/wiki/Events-Overview)
+[View upcoming events](https://github.com/heyvj/decred-events/wiki/Upcoming-Events)
 
 ### 2. Past Events
 * Single destination for event write-ups and logs
