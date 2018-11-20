@@ -11,7 +11,7 @@ Swag:
 - A6 postcards (Decred & Politeia variety; 100 out of 200 left)
 - Tote Bags (60 out of 80 left)
 - T Shirts (38 out of 80 left)
-Thanks to @donmario forthe totals
+Thanks to @donmario for the totals
 
 
 *	The cards were good to freely give out to visitors at out stand and point them to our website, although we think the back of the card could use the space more effectively to name the future features, for example, like one of the roll-up designs does. Nevertheless, they were very handy on account of us not getting any business cards printed out in time for the event, so they doubled as business cards with handwritten e-mail addresses for those interested. The Politeia cards, however, ended up misleading a few people who engaged with us interested in whether we were a platform for blockchain data storage
