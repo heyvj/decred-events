@@ -1,5 +1,5 @@
 ## Post Conference Report
-By @artikozel
+By @kozel
 
 **Conference:**
 10 lat Bitcoina (10 Years of Bitcoin), 26.01.2019, Palladium Theatre, Warsaw
@@ -48,11 +48,11 @@ The setup can be seen [here](https://pbs.twimg.com/media/Dx04dpUX4AAXGx7.jpg), a
 * Outreach-wise we were able to establish relations with a few more crypto outlets, such as the [ILoveCrypto.pl magazine](https://www.ilovecrypto.pl/), a crypto quarterly potentially interested in publishing a Decred article, [Cyfrowa Ekonomia](https://cyfrowaekonomia.pl/)
 and [BitHub.pl](https://bithub.pl) to whom we gave a couple of interviews, and who even wrote up [a conference report](https://bithub.pl/wydarzenia/podsumowanie-konferencji-10-lat-bitcoina-bylo-wspaniale/), in which they write the following about Decred's talk
 
-> Holger Klein (Decred) talked about longevity in cryptocurrencies on the basis of Decred. In his talk Holger highlighted how a solid consensus model should be built and to what degree the role of the community is telling of the development and future of blockchain projects.
+  > Holger Klein (Decred) talked about longevity in cryptocurrencies on the basis of Decred. In his talk Holger highlighted how a solid consensus model should be built and to what degree the role of the community is telling of the development and future of blockchain projects.
 
-and the booth
+  and the booth
 
-> The next booth that attracted crowds of interested attendees was Decred. Decred is an open source, progressive cryptocurrency with a community-based  governance system integrated into its blockchain. The Decred boys were intensely engaged in answering questions of those interested displaying tons of patience at that, since the questions poured in basically all the time!
+  > The next booth that attracted crowds of interested attendees was Decred. Decred is an open source, progressive cryptocurrency with a community-based  governance system integrated into its blockchain. The Decred boys were intensely engaged in answering questions of those interested displaying tons of patience at that, since the questions poured in basically all the time!
 
 Apart from the abovementioned, we engaged with two high-profile individuals, one of whom is the founder and former CEO of [BitBay.pl](https://bitbay.pl), currently operating in Malta, Sylwester Suszek, and Patryk Kempiński, co-founder of a new Polish exchange [coxi.io](https://coxi.io) and cryptocurrency outlet [kryptoraport.pl](https://kryptoraport.pl) about Decred integration and fiat on-ramps (PLN, USD, EUR).
 
