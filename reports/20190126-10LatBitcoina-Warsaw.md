@@ -8,7 +8,7 @@ By @kozel
 1 day (26.01.2019)
 
 **Decred attendees**
-@donmario, @karamble, @lolekbolek, @artikozel
+@donmario, @karamble, @lolekbolek, @kozel
 
 **Participants:**
 ~150-200 (estimated)
@@ -54,7 +54,7 @@ and [BitHub.pl](https://bithub.pl) to whom we gave a couple of interviews, and w
 
   > The next booth that attracted crowds of interested attendees was Decred. Decred is an open source, progressive cryptocurrency with a community-based  governance system integrated into its blockchain. The Decred boys were intensely engaged in answering questions of those interested displaying tons of patience at that, since the questions poured in basically all the time!
 
-Apart from the abovementioned, we engaged with two high-profile individuals, one of whom is the founder and former CEO of [BitBay.pl](https://bitbay.pl), currently operating in Malta, Sylwester Suszek, and Patryk Kempiński, co-founder of a new Polish exchange [coxi.io](https://coxi.io) and cryptocurrency outlet [kryptoraport.pl](https://kryptoraport.pl) about Decred integration and fiat on-ramps (PLN, USD, EUR).
+* Apart from the abovementioned, we engaged with two high-profile individuals, one of whom is the founder and former CEO of [BitBay.pl](https://bitbay.pl), currently operating in Malta, Sylwester Suszek, and Patryk Kempiński, co-founder of a new Polish exchange [coxi.io](https://coxi.io) and cryptocurrency outlet [kryptoraport.pl](https://kryptoraport.pl) about Decred integration and fiat on-ramps (PLN, USD, EUR).
 
 * Most of the conversations we had were amicable with a few more confrontational ones. This being a more cryptocurrency-oriented conference, fewer people asked us about our ICO as some of them were at least partly familiar with Decred, yet still engaged to learn more about it straight from the horse's mouth.
 Despite everything, staples like question about use cases still persist.
