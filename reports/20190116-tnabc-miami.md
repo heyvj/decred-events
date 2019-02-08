@@ -42,13 +42,21 @@ https://btcmiami.com/ and https://btcmiami.com/session/applications-of-blockchai
 ## Photos & Video
 **Photos:**
 https://twitter.com/jz_bz/status/1085906384409878531
+
 https://twitter.com/jz_bz/status/1085944814732861446
+
 https://twitter.com/generalsaccount/status/1085982547539054594
+
 https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$15477438448370TAtLj:decred.org
+
 dinner https://twitter.com/treyditto/status/1086269222072725504
+
 https://twitter.com/CryptoCanucks/status/1086386356396441600
+
 https://twitter.com/jz_bz/status/1086460490807570433
+
 https://twitter.com/Decred_ITA/status/1085946325475254273
+
 
 **Videos:**
 
