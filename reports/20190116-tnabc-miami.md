@@ -86,3 +86,59 @@ I'm happy to say I’ve secured my first bag of DCR and I’m currently download
 
 I'm very excited to join this community and I’m looking forward to a bright future.
 
+### DZ
+**Decred T-Shirt**
+Interest: Very High
+
+Distribution in % based on 1000p
+* XS: 4%
+* S: 10%
+* M: 24%
+* L: 35%
+* XL: 25%
+* XXL: 2%
+
+![](https://cdn-std.dprcdn.net/files/acc_636075/Gia6mi)
+
+*Recommendations:* remove XS, XXL.
+
+**Decred Bags**
+Interest: Very High
+
+*Recommendations:* Dark bag with White or Light Blue logo.
+
+**Decred Brochure**
+Interest: Very High
+
+*Recommendations:* Integrate Contractor opportunities (currently on a separate A6)
+
+**Keychain Stakey**
+Interest: Average
+
+**Stickers**
+Interest: Low
+
+* Green (anti-ICO)
+* Blue (anti-ICO)
+* Round Decred Logo
+* White BG DCR logo
+
+*Recommendations:* remove all, except oval DCR logo sticker.
+
+**Educational A6**
+Interest: Very Low
+
+* Green
+* Dark Blue
+* Light Blue
+*Recommendations:* remove.
+
+**License Plate Frame (Blue)**
+Interest: Very Low
+
+Recommendations: remove.
+
+**Contractor Recruitment Sheet**
+Interest: Very Low
+
+*Recommendations:* remove or integrate (short version) into the brochure.
